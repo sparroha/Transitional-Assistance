@@ -37,4 +37,9 @@ public class mod_TransitionalAssistance {
         public void postInit(FMLPostInitializationEvent event) {
                 // Stub Method
         }
+        
+        public String getVersion()
+        {
+         return "Transitional Assistance 0.1.0 (1.4.6)";
+        }
 }
